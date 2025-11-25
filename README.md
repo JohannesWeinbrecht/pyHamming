@@ -2,6 +2,8 @@
 
 Simple hammingcode simulation using boolean lists for binary string representation.
 
+Exercise for the *Kommunikation & Netze* lecture.
+
 Project uses *uv*.
 
 ## Input
